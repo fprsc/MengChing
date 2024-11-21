@@ -15,3 +15,20 @@
     <script src="app.js"></script>
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    padding: 20px;
+}
+#app {
+    max-width: 600px;
+    margin: 0 auto;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+#reading {
+    margin-top: 20px;
+}
