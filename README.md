@@ -13,9 +13,7 @@
         <div id="reading"></div>
     </div>
     <script src="app.js"></script>
-</body>
-</html>
-body {
+ body {
     font-family: Arial, sans-serif;
     text-align: center;
     background-color: #f0f8ff;
@@ -32,3 +30,6 @@ button {
 #reading {
     margin-top: 20px;
 }
+   
+</body>
+</html>
